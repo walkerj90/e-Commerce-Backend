@@ -35,5 +35,5 @@ Please visit my **[GitHub profile](https://github.com/walkerj90/)** to check out
 If you have any specific questions about this project, please contact me at <walkerj90@icloud.com>.
 
 ## Links
-**[Github Repository](https://github.com/walkerj90/e-Commerce-Backend)**
-**[Link to GIF of walkthrough](https://user-images.githubusercontent.com/72112742/112589305-1aed6400-8dbe-11eb-953b-e52bbf2fb861.gif)**
+- **[Github Repository](https://github.com/walkerj90/e-Commerce-Backend)**
+- **[Link to GIF of walkthrough](https://user-images.githubusercontent.com/72112742/112589305-1aed6400-8dbe-11eb-953b-e52bbf2fb861.gif)**
