@@ -15,8 +15,7 @@ The SQL database includes tables for products, categories, tags, and product tag
 
 ## Installation
 - Both Node.js and MySQL must be installed on your computer.
-- Clone the repo by copying and pasting in your command line: 
-  - `git clone git@github.com:tchestnut85/e-commerce-backend.git`
+- Clone the repo by copying and pasting in your command line
 - Navigate to the root directory and run: 
   - `npm install`
 - To start the server, in the command line run: 
