@@ -34,7 +34,3 @@ Please visit my **[GitHub profile](https://github.com/walkerj90/)** to check out
 If you have any specific questions about this project, please contact me at <walkerj90@icloud.com>.
 
 ## Links
-
-
-## License
-![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
