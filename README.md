@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
 
+![e-comm-backend](https://user-images.githubusercontent.com/72112742/112589305-1aed6400-8dbe-11eb-953b-e52bbf2fb861.gif)
+
 ## Description
 This app is the backend portion of an E-Commerce website. Express.js was used for the server and MySQL for the database along with Sequelize as the ORM to run SQL models and queries.
 The SQL database includes tables for products, categories, tags, and product tags. RESTful API routes are used to make requests and updates from the database which are joined through Sequelize queries.
@@ -33,3 +35,5 @@ Please visit my **[GitHub profile](https://github.com/walkerj90/)** to check out
 If you have any specific questions about this project, please contact me at <walkerj90@icloud.com>.
 
 ## Links
+**[Github Repository]https://github.com/walkerj90/e-Commerce-Backend**
+**[Link to GIF of walkthrough]https://user-images.githubusercontent.com/72112742/112589305-1aed6400-8dbe-11eb-953b-e52bbf2fb861.gif**
